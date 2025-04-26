@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\StudentAttendanceSystem\StudentAttendanceSystemUI\bin\Debug\StudentAttendanceSystemUI.exe.config
+C:\Users\Administrator\source\repos\StudentAttendanceSystem\StudentAttendanceSystemUI\bin\Debug\StudentAttendanceSystemUI.exe
+C:\Users\Administrator\source\repos\StudentAttendanceSystem\StudentAttendanceSystemUI\bin\Debug\StudentAttendanceSystemUI.pdb
+C:\Users\Administrator\source\repos\StudentAttendanceSystem\StudentAttendanceSystemUI\bin\Debug\MaterialSkin.dll
+C:\Users\Administrator\source\repos\StudentAttendanceSystem\StudentAttendanceSystemUI\obj\Debug\StudentAttendanceSystemUI.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\StudentAttendanceSystem\StudentAttendanceSystemUI\obj\Debug\StudentAttendanceSystemUI.AddStudentForm.resources
+C:\Users\Administrator\source\repos\StudentAttendanceSystem\StudentAttendanceSystemUI\obj\Debug\StudentAttendanceSystemUI.AdminDashboard.resources
+C:\Users\Administrator\source\repos\StudentAttendanceSystem\StudentAttendanceSystemUI\obj\Debug\StudentAttendanceSystemUI.LoginForm.resources
+C:\Users\Administrator\source\repos\StudentAttendanceSystem\StudentAttendanceSystemUI\obj\Debug\StudentAttendanceSystemUI.Properties.Resources.resources
+C:\Users\Administrator\source\repos\StudentAttendanceSystem\StudentAttendanceSystemUI\obj\Debug\StudentAttendanceSystemUI.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\StudentAttendanceSystem\StudentAttendanceSystemUI\obj\Debug\StudentAttendanceSystemUI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\StudentAttendanceSystem\StudentAttendanceSystemUI\obj\Debug\StudentA.FA576AC8.Up2Date
+C:\Users\Administrator\source\repos\StudentAttendanceSystem\StudentAttendanceSystemUI\obj\Debug\StudentAttendanceSystemUI.exe
+C:\Users\Administrator\source\repos\StudentAttendanceSystem\StudentAttendanceSystemUI\obj\Debug\StudentAttendanceSystemUI.pdb
+C:\Users\Administrator\source\repos\StudentAttendanceSystem\StudentAttendanceSystemUI\obj\Debug\StudentAttendanceSystemUI.ViewStudentsForm.resources
+C:\Users\Administrator\source\repos\StudentAttendanceSystem\StudentAttendanceSystemUI\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\source\repos\StudentAttendanceSystem\StudentAttendanceSystemUI\bin\Debug\System.Configuration.ConfigurationManager.xml
